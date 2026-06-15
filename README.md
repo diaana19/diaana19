@@ -1,20 +1,22 @@
-# Bonjour, je suis Diana 👩‍💻
+## Bonjour, je suis Diana 👩‍💻
 
-Étudiante à l'École 42 Paris, une école sans cours ni enseignants — on apprend seul, en faisant et en se trompant.
+Étudiante à l'École 42 Paris — on apprend seul, en faisant et en se trompant.
+Orientée Data & Business Intelligence.
 
 ## 🎯 Objectif
-Travailler en **Business Intelligence** — analyser des données et transformer des chiffres en décisions concrètes.
+Travailler en BI — transformer des données brutes en insights concrets et actionnables.
 
-## 🛠 Stack actuelle
+## 🛠 Stack
 **Langages :** C · C++ · JavaScript · Shell  
-**Frontend :** React · HTML · CSS  
-**Data :** SQL (en apprentissage)  
-**Outils :** Git · Linux · Vim · VS Code
+**Frontend :** React · HTML · CSS · Tailwind CSS  
+**Data & BI :** SQL · Power BI · Python · PostgreSQL  
+**Outils :** Git · Docker · Nginx · VS Code · Vim  
 
 ## 📚 En ce moment
 - ✅ Tronc commun validé à l'École 42
-- 🌱 Apprentissage SQL & analyse de données
-- 👀 Ouverte aux opportunités en alternance ou stage BI
+- 🌱 Analyse SQL sur dataset public (Kaggle)
+- 📊 Dashboard Power BI en cours
+- 👀 Ouverte aux opportunités en alternance ou stage BI — sept. 2026
 
-## 📫 Me contacter
+## 📫 Contact
 [LinkedIn](https://linkedin.com/in/diana-rituay)
