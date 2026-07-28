@@ -2,10 +2,10 @@ Bonjour, je suis Diana 👩‍💻
 Étudiante à l'École 42 Paris.
 
 🛠 Stack
-Langages : C · C++ · JavaScript · Shell · Python · SQL
-Frontend : React · HTML · Tailwind CSS
-Data & BI : SQL · Python · Tableau · Power BI
-Outils : Git · Docker · Nginx · VS Code · Vim
+* Langages : C · C++ · JavaScript · Shell · Python · SQL
+* Frontend : React · HTML · Tailwind CSS
+* Data & BI : SQL · Python · Tableau · Power BI
+* Outils : Git · Docker · Nginx · VS Code · Vim
 
 📚 En ce moment
 * Tronc commun validé à l'École 42
