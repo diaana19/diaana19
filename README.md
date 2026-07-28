@@ -10,7 +10,7 @@ Bonjour, je suis Diana 👩‍💻
 📚 En ce moment
 * Tronc commun validé à l'École 42
 * En cours : Titre RNCP Niveau 7 — Architecture des bases de données et Data
-* Ouverte aux opportunités en stage ou alternance Data Analyst / BI — sept. 202
+* Ouverte aux opportunités en stage ou alternance Data Analyst / BI — sept. 2026
 
 ## 📫 Contact
 [LinkedIn](https://linkedin.com/in/diana-rituay)
