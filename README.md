@@ -4,8 +4,8 @@
 
 ## 🛠 Stack
 **Langages :** C · C++ · JavaScript · Shell  
-**Frontend :** React · HTML · CSS · Tailwind CSS  
-**Data & BI :** SQL · Power BI · Python · PostgreSQL  
+**Frontend :** React · HTML · Tailwind CSS  
+**Data & BI :** SQL · Python · Power BI · Tableau Public
 **Outils :** Git · Docker · Nginx · VS Code · Vim  
 
 ## 📚 En ce moment
