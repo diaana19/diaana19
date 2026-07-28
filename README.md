@@ -1,6 +1,6 @@
 ## Bonjour, je suis Diana 👩‍💻
 
-Étudiante à l'École 42 Paris — on apprend seul, en faisant et en se trompant.
+Étudiante à l'École 42 Paris.
 
 ## 🛠 Stack
 **Langages :** C · C++ · JavaScript · Shell  
