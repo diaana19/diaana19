@@ -4,7 +4,7 @@ Bonjour, je suis Diana 👩‍💻
 🛠 Stack
 * Langages : C · C++ · JavaScript · Shell · Python · SQL
 * Frontend : React · HTML · Tailwind CSS
-* Data & BI : SQL · Python · Tableau · Power BI · Excel
+* Data & BI : SQL · Python · Tableau · Power BI · Pack Microsoft Office (Word, Excel, PowerPoint)
 * Outils : Git · Docker · Nginx · VS Code · Vim
 
 📚 En ce moment
